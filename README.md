@@ -22,15 +22,16 @@
 ### [Project 2: Quantitative Research: Bullying in Social Media]- Coursework
 #### I did this project in Year 2 Semester 3
 
-*Study examines factors in cyberbullying.
-*Data analyzed from respondents at Multimedia University, Cyberjaya.
+* Study examines factors in cyberbullying.
+* Data analyzed from respondents at Multimedia University, Cyberjaya.
 * Using SPSS to do demographic analysis, descriptive statistics, computing correlation
 
+<img src="your_image_url_here" width="300">
 
 
-*Significant correlation found between self-esteem and cyberbullying.
-*No significant correlation was found between empathy and cyberbullying.
-*Parenting style significantly related to cyberbullying.
+* Significant correlation found between self-esteem and cyberbullying.
+* No significant correlation was found between empathy and cyberbullying.
+* Parenting style significantly related to cyberbullying.
 
 
 
