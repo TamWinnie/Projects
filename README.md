@@ -26,7 +26,8 @@
 * Data analyzed from respondents at Multimedia University, Cyberjaya.
 * Using SPSS to do demographic analysis, descriptive statistics, computing correlation
 
-<img src="your_image_url_here" width="300">
+<img src=https://github.com/TamWinnie/Projects/assets/165368397/d09583fd-ec58-45b3-bc85-b9fdca5f14ec width=400 height=400 > <img src=https://github.com/TamWinnie/Projects/assets/165368397/d09583fd-ec58-45b3-bc85-b9fdca5f14ec width=400 height=400 > 
+
 
 
 * Significant correlation found between self-esteem and cyberbullying.
