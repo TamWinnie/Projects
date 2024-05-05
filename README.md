@@ -25,8 +25,8 @@
 * Data analyzed from respondents at Multimedia University, Cyberjaya.
 * Using SPSS to do demographic analysis, descriptive statistics, computing correlation
 
-![image](https://github.com/TamWinnie/Projects/assets/165368397/c63a4e91-e1a8-49e2-957a-c25567fbc60a)
-![image](https://github.com/TamWinnie/Projects/assets/165368397/d09583fd-ec58-45b3-bc85-b9fdca5f14ec)
+![image](https://github.com/TamWinnie/Projects/assets/165368397/61efedfd-e9c3-4b56-8c5f-e333b0867b6a)
+
 <img src=https://github.com/TamWinnie/Projects/assets/165368397/3e277700-c622-4025-8dfc-1377185a874f
  width=350 height=370 >  <img src=https://github.com/TamWinnie/Projects/assets/165368397/9c5e77c5-5910-43db-8f2d-2a620695d859 width=350 height=370 > 
 
