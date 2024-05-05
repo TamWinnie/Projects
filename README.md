@@ -40,16 +40,8 @@
 * Used Query editor to do data cleaning.
 * Designed interactive visualizations to explore key insights such as salary distribution, industry trends, and programming language preferences within the IT sector. 
 
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/e2d65100-a9a6-4fd2-ae3b-20e2db8e9b12 width=400 height=300> <img src=https://github.com/TamWinnie/Projects/assets/165368397/c627d75b-d481-4081-b207-8ab06cf83cff width=450 height=300>
+![image](https://github.com/TamWinnie/Projects/assets/165368397/2b94cf38-2cd1-49b6-a8f4-11f3c209db02)
 
-(Break the number and find average)
-(Use Split column-Digit to non-digit)
-
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/242d99e6-b624-4e3a-9c67-e5d33a62384d  width=500 height=350> <img src=https://github.com/TamWinnie/Projects/assets/165368397/ab6fb1a1-5b66-41f7-a385-2ecd72c1787a width=500 height=400>
-
-(After press ok, it come out the “Error”, things we need to do is change the type to “Whole number”)
-
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/2873c97a-5ce2-47db-a93b-5c59ddc929c8  width=700 height=350>
 
 (Result of the dashboard)
 
