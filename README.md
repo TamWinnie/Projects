@@ -58,6 +58,9 @@
 * Designed interactive charts and graphs to present key sales metrics such as Total Sales overtime, Top 5 customers, and Sales by customers.
 * Implemented dynamic features such as, scale and timetable to filter and explore data dynamically.
 
+<img src=https://github.com/TamWinnie/Projects/assets/165368397/fa2456a2-7f34-4495-94d6-75e6e8335a1f width=750 height=300>
+
+(There are 3 Tabs in the Excel file,so use “XLOOKUP” to connect the information in the “Customer Name” and “Email” columns from other tabs.)
 
 
 
