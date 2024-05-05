@@ -52,7 +52,7 @@
 * Designed interactive charts and graphs to present key sales metrics such as Total Sales overtime, Top 5 customers, and Sales by customers.
 * Implemented dynamic features such as, scale and timetable to filter and explore data dynamically.
 
-
+![image](https://github.com/TamWinnie/Projects/assets/165368397/8feaec4a-e317-4c94-ae92-886477f3c7bc)
 
 (Result of the dashboard)
 
