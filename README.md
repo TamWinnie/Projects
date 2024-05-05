@@ -26,7 +26,7 @@
 * Using SPSS to do demographic analysis, descriptive statistics, computing correlation
 
 ![image](https://github.com/TamWinnie/Projects/assets/165368397/61efedfd-e9c3-4b56-8c5f-e333b0867b6a)
-
+![image](https://github.com/TamWinnie/Projects/assets/165368397/51e9e08b-2bf6-478f-b649-eb3390d4777b)
 
 
 * Significant correlation found between self-esteem and cyberbullying.
