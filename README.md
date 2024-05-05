@@ -46,6 +46,10 @@
 (Use Split column-Digit to non-digit)
 
 
+(After press ok, it come out the “Error”, things we need to do is change the type to “Whole number”)
+
+<img src=https://github.com/TamWinnie/Projects/assets/165368397/2873c97a-5ce2-47db-a93b-5c59ddc929c8  width=700 height=350>
+
 
 
 
