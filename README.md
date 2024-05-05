@@ -40,6 +40,10 @@
 * Used Query editor to do data cleaning.
 * Designed interactive visualizations to explore key insights such as salary distribution, industry trends, and programming language preferences within the IT sector. 
 
+<img src=https://github.com/TamWinnie/Projects/assets/165368397/e2d65100-a9a6-4fd2-ae3b-20e2db8e9b12 width=350 height=370>
+(Break the number and find average)
+(Use Split column-Digit to non-digit)
+
 
 
 
