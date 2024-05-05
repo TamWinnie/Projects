@@ -33,8 +33,8 @@
 * No significant correlation was found between empathy and cyberbullying.
 * Parenting style significantly related to cyberbullying.
 
-### [Project 3: Quantitative Research: Bullying in Social Media]- Coursework
-#### The reason I did this project to enhance my skill in Power BI
+### [Project 3: Data Professional Survey Breakdown POWER BI DASHBOARD ]- Personal project
+#### The reason I did this project is to enhance my skills in Power BI
 
 * Created a dashboard with Power Bi to analyze and visualize data from a survey of data professionals.
 * Used Query editor to do data cleaning.
@@ -45,11 +45,18 @@
 (Break the number and find average)
 (Use Split column-Digit to non-digit)
 
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/242d99e6-b624-4e3a-9c67-e5d33a62384d  width=400 height=300>
+<img src=https://github.com/TamWinnie/Projects/assets/165368397/242d99e6-b624-4e3a-9c67-e5d33a62384d  width=500 height=350> <img src=https://github.com/TamWinnie/Projects/assets/165368397/ab6fb1a1-5b66-41f7-a385-2ecd72c1787a width=500 height=400>
 
 (After press ok, it come out the “Error”, things we need to do is change the type to “Whole number”)
 
 <img src=https://github.com/TamWinnie/Projects/assets/165368397/2873c97a-5ce2-47db-a93b-5c59ddc929c8  width=700 height=350>
+
+### [Project 4: Customer Sales EXCEL DASHBOARD ]- Personal Project
+#### The reason I did this project is to enhance my skills in Microsoft Excel
+
+* Utilized advanced Excel function and pivot tables to manipulate and organize raw data effectively.
+* Designed interactive charts and graphs to present key sales metrics such as Total Sales overtime, Top 5 customers, and Sales by customers.
+* Implemented dynamic features such as, scale and timetable to filter and explore data dynamically.
 
 
 
