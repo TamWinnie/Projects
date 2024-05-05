@@ -29,13 +29,18 @@
 <img src=https://github.com/TamWinnie/Projects/assets/165368397/d09583fd-ec58-45b3-bc85-b9fdca5f14ec width=350 height=370 > <img src=https://github.com/TamWinnie/Projects/assets/165368397/3e277700-c622-4025-8dfc-1377185a874f
  width=350 height=370 >  <img src=https://github.com/TamWinnie/Projects/assets/165368397/9c5e77c5-5910-43db-8f2d-2a620695d859 width=350 height=370 > 
 
-
-
-
-
 * Significant correlation found between self-esteem and cyberbullying.
 * No significant correlation was found between empathy and cyberbullying.
 * Parenting style significantly related to cyberbullying.
+
+### [Project 3: Quantitative Research: Bullying in Social Media]- Coursework
+#### The reason I did this project to enhance my skill in Power BI
+
+* Created a dashboard with Power Bi to analyze and visualize data from a survey of data professionals.
+* Used Query editor to do data cleaning.
+* Designed interactive visualizations to explore key insights such as salary distribution, industry trends, and programming language preferences within the IT sector. 
+
+
 
 
 
