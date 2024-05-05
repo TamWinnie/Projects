@@ -24,7 +24,7 @@
 * Study examines factors in cyberbullying.
 * Data analyzed from respondents at Multimedia University, Cyberjaya.
 * Using SPSS to do demographic analysis, descriptive statistics, computing correlation
-  
+
 ![image](https://github.com/TamWinnie/Projects/assets/165368397/c63a4e91-e1a8-49e2-957a-c25567fbc60a)
 ![image](https://github.com/TamWinnie/Projects/assets/165368397/d09583fd-ec58-45b3-bc85-b9fdca5f14ec)
 <img src=https://github.com/TamWinnie/Projects/assets/165368397/3e277700-c622-4025-8dfc-1377185a874f
