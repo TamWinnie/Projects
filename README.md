@@ -10,9 +10,9 @@
 
 * Data was taken from Mendeley data
 * Research Objective:
- 1)	To determine the general profile of individuals who will continue using e-wallets in Da Nang City, Vietnam.
- 2)	To identify the most important variable that makes people continue using e-wallets in Da Nang City, Vietnam.
- 3)	To identify the recommended algorithm to predict the intention to use e-wallets in Da Nang City, Vietnam.
+* 1)	To determine the general profile of individuals who will continue using e-wallets in Da Nang City, Vietnam.
+* 2)	To identify the most important variable that makes people continue using e-wallets in Da Nang City, Vietnam.
+* 3)	To identify the recommended algorithm to predict the intention to use e-wallets in Da Nang City, Vietnam.
 * Employment of CRISP-DM approach for data mining and analysis.
 * Using Python to do synthetic data and data analysis
 
