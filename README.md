@@ -52,15 +52,7 @@
 * Designed interactive charts and graphs to present key sales metrics such as Total Sales overtime, Top 5 customers, and Sales by customers.
 * Implemented dynamic features such as, scale and timetable to filter and explore data dynamically.
 
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/fa2456a2-7f34-4495-94d6-75e6e8335a1f width=650 height=250>
 
-(There are 3 Tabs in the Excel file,so use “XLOOKUP” to connect the information in the “Customer Name” and “Email” columns from other tabs.)
-
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/2ce78dfc-7d8f-4966-add1-507abdd489a9 width=650 height=250>
-
-(Add one new column name “coffee type name”, use “IF” function to turn the abbreviation of coffee type to full name)
-
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/57140086-5246-4b7c-855a-e75751358632 width=650 height=250>
 
 (Result of the dashboard)
 
