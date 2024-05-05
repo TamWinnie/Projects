@@ -1,12 +1,11 @@
-# Winnie's Portfolio
-
-## Intership
+## Hello there👋 I'm Winnie
+## Good day! Thank you for taking the time to explore my project.😇
 
 ### Education:
 #### Bachelor of Digital Enterprise Management (Hons.)
 #### Multimedia University
 
-### [Project 1: Prediction of E-wallet Usage]- Final Year Project
+### [🗞Project 1: Prediction of E-wallet Usage]- Final Year Project
 #### This project is ongoing for my degree Final Year Project.
 
 * Data was taken from Mendeley data
@@ -19,8 +18,8 @@
 
 
 
-### [Project 2: Quantitative Research: Bullying in Social Media]- Coursework
-#### I did this project in Year 2 Semester 3
+### [🗞Project 2: Quantitative Research: Bullying in Social Media]- Coursework
+#### This is a group project I did in Year 2 Semester 3.
 
 * Study examines factors in cyberbullying.
 * Data analyzed from respondents at Multimedia University, Cyberjaya.
@@ -33,8 +32,8 @@
 * No significant correlation was found between empathy and cyberbullying.
 * Parenting style significantly related to cyberbullying.
 
-### [Project 3: Data Professional Survey Breakdown POWER BI DASHBOARD ]- Personal project
-#### The reason I did this project is to enhance my skills in Power BI
+### [🗞Project 3: Data Professional Survey Breakdown POWER BI DASHBOARD ]- Personal project
+#### The reason I did this project is to enhance my skills in Power BI.
 
 * Created a dashboard with Power Bi to analyze and visualize data from a survey of data professionals.
 * Used Query editor to do data cleaning.
@@ -51,8 +50,10 @@
 
 <img src=https://github.com/TamWinnie/Projects/assets/165368397/2873c97a-5ce2-47db-a93b-5c59ddc929c8  width=700 height=350>
 
-### [Project 4: Customer Sales EXCEL DASHBOARD ]- Personal Project
-#### The reason I did this project is to enhance my skills in Microsoft Excel
+(Result of the dashboard)
+
+### [🗞Project 4: Customer Sales EXCEL DASHBOARD ]- Personal Project
+#### The reason I did this project is to enhance my skills in Microsoft Excel.
 
 * Utilized advanced Excel function and pivot tables to manipulate and organize raw data effectively.
 * Designed interactive charts and graphs to present key sales metrics such as Total Sales overtime, Top 5 customers, and Sales by customers.
@@ -63,6 +64,11 @@
 (There are 3 Tabs in the Excel file,so use “XLOOKUP” to connect the information in the “Customer Name” and “Email” columns from other tabs.)
 
 <img src=https://github.com/TamWinnie/Projects/assets/165368397/2ce78dfc-7d8f-4966-add1-507abdd489a9 width=650 height=250>
+
 (Add one new column name “coffee type name”, use “IF” function to turn the abbreviation of coffee type to full name)
+
+<img src=https://github.com/TamWinnie/Projects/assets/165368397/57140086-5246-4b7c-855a-e75751358632 width=650 height=250>
+
+(Result of the dashboard)
 
 
