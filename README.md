@@ -27,8 +27,7 @@
 
 ![image](https://github.com/TamWinnie/Projects/assets/165368397/61efedfd-e9c3-4b56-8c5f-e333b0867b6a)
 
-<img src=https://github.com/TamWinnie/Projects/assets/165368397/3e277700-c622-4025-8dfc-1377185a874f
- width=350 height=370 >  <img src=https://github.com/TamWinnie/Projects/assets/165368397/9c5e77c5-5910-43db-8f2d-2a620695d859 width=350 height=370 > 
+
 
 * Significant correlation found between self-esteem and cyberbullying.
 * No significant correlation was found between empathy and cyberbullying.
