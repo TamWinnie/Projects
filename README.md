@@ -45,6 +45,7 @@
 (Break the number and find average)
 (Use Split column-Digit to non-digit)
 
+<img src=https://github.com/TamWinnie/Projects/assets/165368397/242d99e6-b624-4e3a-9c67-e5d33a62384d  width=400 height=300>
 
 (After press ok, it come out the “Error”, things we need to do is change the type to “Whole number”)
 
